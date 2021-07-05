@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🔭 Currently working on Middleware Dev / SRE
 - 🌱 I’m Currently learning Deep Learning
 
+<img  alt="GIF" src="https://github.com/godsoul/godsoul/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <details>
     <summary><b>🌈 Something more(click here):</b></summary>
     <br>
